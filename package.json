@@ -10,6 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest run",
+    "vite": "^6.x.x",
     "test:watch": "vitest"
   },
   "dependencies": {
